@@ -1,0 +1,12 @@
+Request method:	POST
+Request URI:	https://automationexercise.com/api/verifyLogin
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	password=Raaj13@AUTOMATION77
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
