@@ -1,12 +1,35 @@
-Request method:	POST
-Request URI:	https://automationexercise.com/api/verifyLogin
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=Raaj13%40gmail.com
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
-Form params:	password=Raaj13@AUTOMATION77
+Form params:	email=Raaj13@gmail.com
 Path params:	<none>
 Headers:		Accept=*/*
 				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
+HTTP/1.1 200 OK
+Date: Sun, 12 Nov 2023 11:37:08 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: POST, DELETE, GET, OPTIONS, PUT
+x-powered-by: Phusion Passenger 6.0.7
+status: 200 OK
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Mbb7m2J2E%2BW2PiCHNbInzV%2BZbWrhPbmGaHWRRaFycRjq4C2%2Fc8HzhsKZMArryYX7%2BZxt3vTrdLhezjUBdLMQNMcNVHaA84Hk%2F0X%2FRfUbwRepPkS5lea9BqvP9zb1kvWhi37j0MADk%2BPa"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 824e7b305e95b2a9-MAA
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 404, "message": "Account not found with this email, try another email!"}</body>
+</html>
