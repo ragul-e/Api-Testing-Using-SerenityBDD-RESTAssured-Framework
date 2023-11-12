@@ -39,11 +39,11 @@
 **TC5: POST To Search Product.** 
 **Steps:**
 
-1.API URL: https://automationexercise.com/api/searchProduct
-2.Request Method: POST
-3.Request Parameter: search_product (For example: top, tshirt, jean)
-4.Response Code: 200
-5.Response JSON: Searched products list
+1. API URL: https://automationexercise.com/api/searchProduct
+2. Request Method: POST
+3. Request Parameter: search_product (For example: top, tshirt, jean)
+4. Response Code: 200
+5. Response JSON: Searched products list
 
 
 **TC6: POST To Search Product without search_product parameter.** 
